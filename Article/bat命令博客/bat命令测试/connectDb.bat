@@ -1,0 +1,1 @@
+mysql -uroot -p123456 -h localhost efo -e   " select * from category ">>out.txt

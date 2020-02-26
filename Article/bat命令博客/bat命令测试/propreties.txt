@@ -1,0 +1,3 @@
+ip:localhost
+username:root
+passwd:123456
