@@ -10,7 +10,7 @@
 
 它的源码在`Github`都能找到，`Android端`，`Ios`端，`Web端`，`Server端`源码都有。今天先搭建一套`Web`版的聊天工具。
 
-![](.\轻松搭建--融云Web聊天工具\1.png)
+![](轻松搭建--融云Web聊天工具\1.png)
 
 ## 二、搭建步骤
 
@@ -26,7 +26,7 @@ git clone https://github.com/sealtalk/sealtalk-server
 
 访问地址：<https://www.rongcloud.cn/>  注册融云账号，并创建应用
 
-![](.\轻松搭建--融云Web聊天工具\2.png)
+![](轻松搭建--融云Web聊天工具\2.png)
 
 #### 3.修改配置文件
 
@@ -70,7 +70,7 @@ pm2 -h //帮助文档
 
 执行`pm2 list` 有名称为`sealtalk-server`表示服务启动成功。
 
-![](.\轻松搭建--融云Web聊天工具\3.png)
+![](轻松搭建--融云Web聊天工具\3.png)
 
 ### 2.`Web`端环境搭建
 
@@ -117,9 +117,9 @@ docker run -d -p 9001:80 -v /usr/myWorkSpace/im/code/sealtalk-web/build:/usr/sha
 
 测试账号：18629693995 密码：123456
 
-![](.\轻松搭建--融云Web聊天工具\4.png)
+![](轻松搭建--融云Web聊天工具\4.png)
 
-![](.\轻松搭建--融云Web聊天工具\5.png)
+![](轻松搭建--融云Web聊天工具\5.png)
 
 ### 3.其他操作
 
@@ -127,11 +127,11 @@ docker run -d -p 9001:80 -v /usr/myWorkSpace/im/code/sealtalk-web/build:/usr/sha
 
 1.我使用的`阿里云`，新增加对外暴露端口的时候需要添加安全组（我使用的阿里云客户端）
 
-![](.\轻松搭建--融云Web聊天工具\6.jpg)
+![](轻松搭建--融云Web聊天工具\6.jpg)
 
 2.`宝塔`端口未开放
 
-![](.\轻松搭建--融云Web聊天工具\7.png)
+![](轻松搭建--融云Web聊天工具\7.png)
 
 #### 2.基础工具的安装
 

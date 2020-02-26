@@ -32,29 +32,28 @@ google浏览器安装插件这里就略过了。
 
 以抓取知乎大V陈素封文章前 3 页标题、正文全文、点赞数为例。（<https://www.zhihu.com/people/Feat/posts>） 
 
-![img](https://img-blog.csdnimg.cn/20190515081021725.png)![img](https://img-blog.csdnimg.cn/20190515081021725.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+![img](https://img-blog.csdnimg.cn/20190515081021725.png)![img](https://img-blog.csdnimg.cn/20190515081021725.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)
 
 1.抓取流程
 
 1）第一步：了解网址规则，**建立 Sitemap**，名称可根据每个人的习惯自己来定义。
 
- ![img](https://img-blog.csdnimg.cn/20190515081328411.png)![img](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+ ![img](https://img-blog.csdnimg.cn/20190515081328411.png)
 
 2）第二步：熟悉网页结构，按下图顺序**创建选择器**。
 
-![img](https://img-blog.csdnimg.cn/20190515081153348.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
-
+![img](https://img-blog.csdnimg.cn/20190515081153348.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)
 元素选择器 ① post-element，用于选择文章元素块。
 
-![img](https://img-blog.csdnimg.cn/20190515081926403.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+![img](https://img-blog.csdnimg.cn/20190515081926403.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)
 
 为元素选择器 post-element 建立 3 个子选择器，分别为文本选择器post-title、链接选择器full-content-link、文本选择器link-count。
 
-![img](https://img-blog.csdnimg.cn/2019051508154415.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+![img](https://img-blog.csdnimg.cn/2019051508154415.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)
 
-![img](https://img-blog.csdnimg.cn/20190515081623275.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+![img](https://img-blog.csdnimg.cn/20190515081623275.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)
 
-![img](https://img-blog.csdnimg.cn/20190515081650177.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
+![img](https://img-blog.csdnimg.cn/20190515081650177.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1YWFpcmVu,size_16,color_FFFFFF,t_70)
 
  2.操作技巧
 

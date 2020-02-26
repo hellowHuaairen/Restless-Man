@@ -47,7 +47,6 @@ jekyll server      #启动项目
 
 项目启动日志如下：
 
-![1570805259036](C:\Users\ADMINI~1\AppData\Local\Temp\1570805259036.png)
 
 在浏览器访问：<http://localhost:4000/> 
 
@@ -73,7 +72,6 @@ jekyll server      #启动项目
 
 在我们创建的博客的目录找到 _site 目录，将 _site 目录下的所有文件都提交到Github上。
 
-![1570806513654](C:\Users\ADMINI~1\AppData\Local\Temp\1570806513654.png)
 
 操作步骤：
 
@@ -90,11 +88,9 @@ git push    #git 推送代码到远程
 
 创建与账号名相同的仓库，如下图：
 
-![1570885792467](C:\Users\ADMINI~1\AppData\Local\Temp\1570885792467.png)
 
 提交代码到 Gitee 上，再开启  Gitee Pages 服务即可。
 
-![1570885853725](C:\Users\ADMINI~1\AppData\Local\Temp\1570885853725.png)
 
 最后就可以访问了。<http://huaairen.gitee.io/> 
 
@@ -102,7 +98,6 @@ git push    #git 推送代码到远程
 
 效果如下图：
 
-![1570806814739](C:\Users\ADMINI~1\AppData\Local\Temp\1570806814739.png)
 
 #### 6.切换主题
 
@@ -122,7 +117,6 @@ bundle exec jekyll serve   #运行项目
 
 项目运行效果：
 
-![1570813605749](C:\Users\ADMINI~1\AppData\Local\Temp\1570813605749.png)
 
 ## 丰富的主题自由选择
 

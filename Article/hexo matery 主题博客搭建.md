@@ -8,11 +8,11 @@ Github + hexo matery 主题搭建免费博客
 
 这是我上半年通过源码搭建的博客，地址是：<http://www.mhtclub.com/> 。如下图：
 
-![1569652156918](.\hexo\1569652156918.png)
+![1569652156918](hexo\1569652156918.png)
 
 这是我新搭建的博客，地址是：<https://www.restlessman.cn/> ，效果如下图：
 
-![1569655646774](.\hexo\1569655646774.png)
+![1569655646774](hexo\1569655646774.png)
 
 ### 我觉得 hexo 框架的优点有：
 
@@ -36,11 +36,11 @@ ssh-keygen -t rsa -C "你的GitHub注册邮箱"
 
 在 Github 个人设置中心，新建一个 SSH key。“SSH and GPG keys ” -> "New SSH key " 
 
-![1569652761082](.\hexo\1569652761082.png)
+![1569652761082](hexo\1569652761082.png)
 
 最后在 Git Bash 中检测 GitHub 公钥设置是否成功，输入 ssh git@github.com 
 
-![1569652966892](.\hexo\1569652966892.png)
+![1569652966892](hexo\1569652966892.png)
 
 如上图所示，就表示配置成功。
 
@@ -48,7 +48,7 @@ ssh-keygen -t rsa -C "你的GitHub注册邮箱"
 
 下载Node.js 安装程序，官网地址：<https://nodejs.org/en/download/> 
 
-![1569653136187](.\hexo\1569653136187.png)
+![1569653136187](hexo\1569653136187.png)
 
 1.3 安装 hexo
 
@@ -70,7 +70,7 @@ hexo themes主题官网：  <https://hexo.io/themes/index.html>
 
 上周无意间发现一位兄弟的博客是通过 matery 主题搭建的，让我眼前一亮，我的主题就是它了。
 
-![1569653789764](.\hexo\1569653789764.png)
+![1569653789764](hexo\1569653789764.png)
 
 ### 3.markdown 文档内容修改
 
@@ -123,7 +123,7 @@ permalink_defaults:
 
 4.1 百度收录你的网站
 
-![1569656041122](.\hexo\1569656041122.png)
+![1569656041122](hexo\1569656041122.png)
 
 4.2 生成网站地图，向百度提交链接
 
@@ -144,7 +144,7 @@ npm install hexo-generator-baidu-sitemap --save
 
 google 站点平台：[https://www.google.com/webmasters/](https://link.zhihu.com/?target=https%3A//www.google.com/webmasters/) 
 
-![1569657041191](.\hexo\1569657041191.png)
+![1569657041191](hexo\1569657041191.png)
 
 ## 结语
 

@@ -89,7 +89,7 @@ docker-compose -f docker-compose.wordpress.yml down #停止并删除服务
 
 后台访问地址：`IP:8000/wp-admin` ：
 
-![1574144306251](./Docker安装Wordpress博客/1574144306251.png)
+![1574144306251](Docker安装Wordpress博客/1574144306251.png)
 
 #### 2.前端管理页面 
 
@@ -97,13 +97,13 @@ docker-compose -f docker-compose.wordpress.yml down #停止并删除服务
 
 我刚刚搭建的博客地址（这里我修改了一下端口）：<http://47.93.246.180:9001/> 
 
-![1574342197482](./Docker安装Wordpress博客/1574342197482.png) 
+![1574342197482](Docker安装Wordpress博客/1574342197482.png) 
 
 #### 3.基础属性设置
 
 在这里设置web页面的基本属性，例如站点标题，副标题，站点的语言，日期格式等。
 
-![1574342941961](./Docker安装Wordpress博客/1574342941961.png)
+![1574342941961](Docker安装Wordpress博客/1574342941961.png)
 
 ## 二、Wordpress 设置
 
@@ -111,23 +111,23 @@ docker-compose -f docker-compose.wordpress.yml down #停止并删除服务
 
 进入`wordpress` 后台管理页面：<http://IP:port/wp-admin/> 
 
-![1574342480848](./Docker安装Wordpress博客/1574342480848.png)
+![1574342480848](Docker安装Wordpress博客/1574342480848.png)
 
 打开主题页面，主题任你选择。
 
-![1574342603983](./Docker安装Wordpress博客/1574342603983.png)
+![1574342603983](Docker安装Wordpress博客/1574342603983.png)
 
 ### 2.添加文章
 
 在这里添加文章。
 
-![1574342833258](./Docker安装Wordpress博客/1574342833258.png)
+![1574342833258](Docker安装Wordpress博客/1574342833258.png)
 
 ### 3.安装插件
 
 丰富的插件市场，任由你来挑选！
 
-![1574342755662](./Docker安装Wordpress博客/1574342755662.png)
+![1574342755662](Docker安装Wordpress博客/1574342755662.png)
 
 ### 4.SEO优化
 
