@@ -1,0 +1,126 @@
+<div style="text-align: center;">
+<span>
+	<dd style="text-align: center;"><b>不安分的猿人</b></dd>
+	<dd style="font-size: 14px;text-align: center;">孜孜不断的技术分享！</dd>
+</span>
+<img src="https://user-gold-cdn.xitu.io/2020/2/16/1704e0035b8ec209?w=303&h=302&f=jpeg&s=36191" style="width: 220px;margin-top:10px">
+</div>
+
+第一件要干的事情，按照步骤逐一进行学习，或者根据易百教程学习。然后输出文章，写自己付费的内容，在掘金小册。
+第二件要干的事情，做selenium 爬虫课程，抓取链家，boss直聘等网站数据。
+
+学习springboot课程
+1Spring Boot 快速入门试读
+2Spring Boot 启动原理
+3微服务概述
+4注册中心
+5服务提供者
+6跨服务接口调用神器 RestTemplate
+7服务消费者
+8用服务网关统一 URL，开发更简洁
+9Ribbon 负载均衡
+10Spring Cloud Feign 声明式接口调用
+11Hystrix 容错监控机制
+12Spring Cloud Config 本地配置
+13搭建消息中间件 RabbitMQ 环境
+14Zipkin 服务跟踪
+15Spring Cloud Config 远程配置
+16微服务项目实战：环境搭建
+17注册中心和配置中心
+18服务提供者 account
+19服务提供者 menu
+20服务提供者 order
+21服务提供者 user
+22服务消费者 clientfeign
+23Spring Cloud 面试题汇总试读
+
+
+专栏目录已发布 44 篇 | 共 44 篇内容
+1为什么要学 Spring Boot试读
+2Spring Boot 产生的背景和它的设计理念试读
+3Spring Boot 2.0 都更新了什么（上）试读
+4Spring Boot 2.0 都更新了什么（下）
+5Spring Boot 依赖环境和项目结构介绍
+6写一个 Hello World 来感受 Spring Boot
+7Spring Boot 对基础 Web 开发的支持（上）
+8Spring Boot 对基础 Web 开发的支持（下）
+9Spring Boot 项目中使用 JSP
+10模板引擎 Thymeleaf 基础使用
+11模板引擎 Thymeleaf 高阶用法
+12Thymeleaf 页面布局
+13使用 Spring Boot 和 Thymeleaf 演示上传文件
+14使用 Spring Boot 上传文件到 FastDFS
+15Spring Boot 构建一个 RESTful Web 服务
+16使用 Swagger 2 构建 RESTful APIs
+17使用 Spring Boot WebSocket 创建聊天室
+18Spring Boot 使用 JDBC 操作数据库
+19如何优雅地使用 MyBatis XML 配置版
+20如何优雅地使用 MyBatis 注解版
+21Spring Data JPA 的基本使用
+22Spring Data JPA 的高级用法
+23Spring Data JPA 多数据源的使用
+24Spring Boot 集成 Druid 监控数据源
+25Spring Data JPA 和 Thymeleaf 综合实践
+26Spring Boot 操作 Memcache
+27Spring Boot 和 Redis 常用操作
+28使用 Redis 实现 Session 共享
+29Spring Boot 中使用 Cache 缓存的使用
+30使用 Spring Boot 操作 ActiveMQ
+31Spring Boot RabbitMQ 详解
+32Spring Boot 简单集成 MongoDB
+33Spring Boot 集成 ElasticSearch
+34Spring Boot 集成 Quartz
+35使用 Spring Boot 开发邮件系统
+36使用 Spring Boot Security 进行安全控制
+37使用 Spring Boot Actuator 监控应用
+38Spring Boot Admin 的使用
+39Spring Boot 对测试的支持
+40如何打包部署 Spring Boot 项目
+41使用 Docker 部署 Spring Boot 项目
+42综合实战客户管理系统（一）
+43综合实战客户管理系统（二）
+44总结 Spring Boot 应用实战试读
+
+也可以基于纯洁的微笑博客写系列教程 http://www.ityouknow.com/spring-boot.html
+
+selenium专题链接
+java8默认路径：E:\installSofts\jdk1.8\jdk1.8
+java11默认路径：E:\installSofts\jdk11
+%JAVA_HOME%\bin;
+%JAVA_HOME%\jre\bin;
+
+我自己的springboot教程目录：
+参考文章链接
+	1. 于易百教程：https://www.yiibai.com/spring-boot/spring_boot_introduction.html
+	2. 官网：https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started-installing-spring-boot
+	3. 博客网站：http://www.ityouknow.com/springboot/2016/01/06/spring-boot-quick-start.html
+	4. 翻译后的官网：https://www.springcloud.cc/spring-boot.html#getting-started-first-application
+	
+1.Spring Boot 简介（包含启动原理）
+2.Spring Boot 快速入门
+3.Spring Boot 集成MyBatis XML 配置版
+4.Spring Boot Thymeleaf示例
+5.Spring Boot使用RESTful Web服务
+6.Spring Boot异常处理
+7.Spring Boot拦截器
+8.Spring Boot国际化
+9. Nacos简介(做注册中心和配置中心)
+10.Spring Boot集成Nacos
+11.Spring Boot gateway
+12.Spring Boot Feign服务间接口调用
+13.SpringBoot 整合 oauth2实现 token 认证
+14.Spring Boot启用Swagger2
+15.Spring Boot发送电子邮件
+16.Spring Boot Flyway数据库
+17.Spring Boot调度
+18.Spring Boot Actuator 监控应用
+19.Spring Boot Hystrix
+20.使用 Spring Boot 操作 rabbitMQ
+21.Spring Boot创建Docker镜像,docker部署
+22.Spring Boot单元测试用例
+23.Spring Boot Sleuth 跟踪微服务日志
+24.实战项目（一），使用上面列举的所有功能，完成实战项目  客户关系管理，认证服务，发送邮件服务，后台管理系统，网关服务，
+25.实战项目（二）
+26.实战项目（三）
+27.Spring Boot 总结
+

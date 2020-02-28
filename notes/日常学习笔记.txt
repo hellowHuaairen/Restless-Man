@@ -1,0 +1,162 @@
+2020.2.25
+ 1.记录内容
+	1. vpn 工具
+		Astar vpn  
+		Github shadowsocket
+		Tenon vpn
+
+	2.百度网盘文件下载，可以通过爱奇艺的合作入口下载 ，下载地址：http://store.iqiyi.com/  
+	
+	3.可以扩散的话题：
+		1.搭建博客 两种 springboot版本，solo版本
+		2.gitlab自动构建和部署项目
+		3.内网穿透，花生壳
+		4.YouTube视频搬运，字幕制作
+		5.浏览器视频下载
+		6.10个优秀网站
+		7.自制网盘
+		8.破解百度网盘下载速度慢。
+		9.空谷小幽蓝 https://lures2019.github.io  关于翻墙的一对博客
+	4.10个网站
+		第1款Epic和steam喜加一：
+		http://epicgames.com/
+		第2款限时免费情报：
+		http://newmobilelife.com/
+		第3款p站热门：
+		https://pixivic.com/
+		第4款优品PPT：
+		http://www.ypppt.com/
+		第5款idata：
+		https://www.cn-ki.net/
+		第6款在线PS：
+		https://www.photopea.com/
+		第7款点赞生成器：
+		https://wejizan.com/
+		第8款临时邮箱：
+		http://24mail.chacuo.net/
+		第9款临时接收手机验证码：
+		www.materialtools.com/
+		第10款临时网盘：
+		https://send.firefox.com/
+	5.手把手搭建个人博客:
+		链接：https://pan.baidu.com/s/1DdacCdIes-K0SHeN2MP2uw 提取码：155o
+
+2020.2.26
+ 1.记录内容
+	1.免费博客搭建
+		1.我的免费主机
+		2.链接:https://byet.host/ 
+
+	2.获取视频资源
+		1. 一般使用f12直接获取
+		2. 其他方式：
+			一般视频下载网站：https://www.parsevideo.com/
+			youtube视频下载：https://zh.savefrom.net/savefrom-helper-for-google-chrome.php
+			抖音无水印视频下载：https://dy.kukutool.com/
+			无水印下载国外视频：https://www.videofk.com/
+		3. 最后实在没办法，只能用windows +G 录制视频
+
+	3. 动漫资源网站  蜜桔计划，动漫乐园，nyaa
+	4. 免费白嫖服务器，白嫖域名，搭建个人博客，参考b站视频。服务器获取地址
+		https://www.cccyun.net/
+		二级域名获取地址
+		http://dns.yuzhitu.cn/
+		博客引擎下载地址
+		https://www.lanzous.com/i8wv9fa
+		WordPress官网
+		https://wordpress.org/
+	5. 动漫：
+		声之形
+		你的名字
+		刀剑神域
+		幻界战线
+		热诚传说
+		杀戮天使
+		火影忍者
+		玉子市场
+		黑岩射手
+		宝石之国
+		游戏人生
+		赤之约定
+		狂赌深渊
+		东京喰种
+		境界的彼方
+		命运石之门
+		小魔女学院
+		学园默示录
+		进击的巨人
+		Re：造物主
+		我的英雄学院
+		魔法禁书目录
+		政宗君的复仇
+		魔方少女小圆
+		舰队Collection
+		神不在的星期天
+		织田信奈的野望
+		寄宿学院的茱丽叶
+		吹响吧！上低音号
+		Re:从零开始的异世界生活
+		我的青春恋爱物语果然有问题
+		我女友与青梅竹马的惨烈修罗场
+		辉夜大小姐向我告白天才们的恋爱头脑战
+
+		EDEN
+		FGOpv
+		Fate/Zero
+		Fate/stay night
+		Darling In The Franxx
+		
+
+
+2020.2.27
+ 1.记录内容
+
+	1. 介绍一个能大大提高 Java 开发管理系统效率的框架 Axelor，并通过开发一个简单的订单管理系统进行实际开发的演示。本视频内容适合具有一定开发经验的业务系统开发者观看，请初学者自酌。
+		演示代码 GitHub： https://github.com/oldrev/ep009-axelor-sales-demo
+
+	2. Notion搭建个人博客
+
+	3. 生活小妙招，教大家把闲置的电脑或者树莓派配置成私人的 Git 代码仓库，用起来比 GitHub 还要爽。
+
+	4. 安卓翻墙浏览器 https://m.apkpure.com/upx-unblock-websites-proxy-browser-private-fast/net.upx.proxy.browser/versions
+
+	5. 设计开发一套springCloud实战开源项目
+
+2020.2.28
+ 1.记录内容
+	1.网站发现中国：https://www.ageeye.cn/， 包含中国各个时期的地图。
+	内容获取是从 `B站`的一位up主，它的博客地址： https://topbook.cc/overview?selectedArticle=1763  
+
+	2.网站OpenProcessing：https://www.openprocessing.org/)，它和编程有关，但主要为你打开一种新的创意方式。
+	内容获取是从B站的一位up主，它的博客地址：：https://topbook.cc/overview?selectedArticle=1765
+
+	3.老郭种树博客 https://guozh.net/ 包罗万象
+		1.自媒体人用的 Chrome 插件神器：https://guozh.net/chrome-extension-for-wemedia/
+		2.谷歌 Chrome 插件神器推荐，这 9 个拓展好用到逆天：https://guozh.net/google-chrome-extensions-1/
+	4.下载b站视频 https://www.lanzous.com/i8vudbi
+	5. 一文多发，OpenWrite助手
+		官网：https://openwrite.cn/
+		google插件：https://chrome.google.com/webstore/detail/openwrite%E5%8A%A9%E6%89%8B/kpablefiaamhipnlfkhaghbipfgpodib/related?utm_source=chrome-ntp-icon
+		微信同步助手 ，插件https://chrome.google.com/webstore/detail/%E5%BE%AE%E4%BF%A1%E5%90%8C%E6%AD%A5%E5%8A%A9%E6%89%8B/hchobocdmclopcbnibdnoafilagadion?hl=zh-CN
+	6.其他常用软件
+		取名：https://unbug.github.io/codelf/
+		代码图片：https://carbon.now.sh/
+		演奏：https://drumbot.glitch.me/
+		萤火虫：https://ncase.me/fireflies/
+		远程工具：https://app.gitmind.cn/doc/2d1160504
+		GitHub-Chart插件：https://chrome.google.com/webstore/detail/github-chart/apaldppjjcjgjddfobajdclccgkbkkje
+	
+	7.查找类似网站 https://www.similarsites.com/
+	   谷歌插件地址：https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn
+	
+	8.制作视频，资源下载网站：
+		1. 电影网站：http://www.taiyingshi.vip/movie/
+		2. 动漫下载网站：http://kisssub.org/
+		3. 电影网站：https://www.chapaofan.com/31342.html
+
+
+
+
+
+
+
