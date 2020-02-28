@@ -44,7 +44,7 @@
 2020.2.26
  1.记录内容
 	1.免费博客搭建
-		1.我的免费主机
+		1.我的免费主机 https://www.myfreeyun.com/
 		2.链接:https://byet.host/ 
 
 	2.获取视频资源
@@ -99,7 +99,6 @@
 		我的青春恋爱物语果然有问题
 		我女友与青梅竹马的惨烈修罗场
 		辉夜大小姐向我告白天才们的恋爱头脑战
-
 		EDEN
 		FGOpv
 		Fate/Zero
@@ -153,6 +152,11 @@
 		1. 电影网站：http://www.taiyingshi.vip/movie/
 		2. 动漫下载网站：http://kisssub.org/
 		3. 电影网站：https://www.chapaofan.com/31342.html
+		
+	9.git status 显示中文乱码 
+	例如：modified:   "\345\274\200\351\242\23\271\217.doc"
+	解决方法：git config --global core.quotepath false
+
 
 
 
