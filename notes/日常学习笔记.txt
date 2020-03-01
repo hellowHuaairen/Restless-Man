@@ -157,6 +157,10 @@
 	例如：modified:   "\345\274\200\351\242\23\271\217.doc"
 	解决方法：git config --global core.quotepath false
 
+2020.2.28
+ 1.记录内容
+	将目录文件已文本形式显示：tree /a /f >a.txt
+	
 
 
 

@@ -1,10 +1,4 @@
-<div style="text-align: center;">
-<span>
-	<dd style="text-align: center;"><b>不安分的猿人</b></dd>
-	<dd style="font-size: 14px;text-align: center;">孜孜不断的技术分享！</dd>
-</span>
-<img src="https://user-gold-cdn.xitu.io/2020/2/16/1704e0035b8ec209?w=303&h=302&f=jpeg&s=36191" style="width: 220px;margin-top:10px">
-</div>
+
 
 第一件要干的事情，按照步骤逐一进行学习，或者根据易百教程学习。然后输出文章，写自己付费的内容，在掘金小册。
 第二件要干的事情，做selenium 爬虫课程，抓取链家，boss直聘等网站数据。
@@ -95,10 +89,13 @@ java11默认路径：E:\installSofts\jdk11
 	2. 官网：https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started-installing-spring-boot
 	3. 博客网站：http://www.ityouknow.com/springboot/2016/01/06/spring-boot-quick-start.html
 	4. 翻译后的官网：https://www.springcloud.cc/spring-boot.html#getting-started-first-application
+	5. csdn 博客专家：https://blog.csdn.net/gnail_oug/category_9274381.html
+	   项目源码地址：https://github.com/itinypocket/spring-boot-study
+	   
 	
 1.Spring Boot 简介（包含启动原理）
 2.Spring Boot 快速入门
-3.Spring Boot 集成MyBatis XML 配置版
+3.Spring Boot 集成 MyBatis XML 配置版
 4.Spring Boot Thymeleaf示例
 5.Spring Boot使用RESTful Web服务
 6.Spring Boot异常处理
