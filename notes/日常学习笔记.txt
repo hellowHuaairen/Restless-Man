@@ -161,10 +161,92 @@
  1.记录内容
 	将目录文件已文本形式显示：tree /a /f >a.txt
 	
+2020.3.1
+ 1.记录内容
+	1.网盘搭建：Cloudreve 
+	github地址：https://github.com/cloudreve/Cloudreve
+	2.owncloud网盘搭建：https://doc.owncloud.org/server/10.4/admin_manual/installation/docker/
+	多种网盘参考文章：https://zhuanlan.zhihu.com/p/44103820
+	
+	2.申请office365 5t邮箱，并可搭建网盘
+	参考文章：https://blog.csdn.net/github_39533414/article/details/83687260
+	
+	3. 利用Nextcloud搭建私有同步云盘，建议结合免费云盘
+	https://zhuanlan.zhihu.com/p/62987726
+	
+	4. Fiddler爬虫，爬取手机手机，参考链接：https://blog.csdn.net/Roland_Sun/article/details/30078353
+	
+	5. anyProxy爬取手机手机 参考文章：https://cloud.tencent.com/developer/article/1086128
+
+2020.3.2
+ 1.记录内容
+	1.fiddler爬虫抓取微信公众号账号
+		参考文章：
+		1. https://www.jianshu.com/p/7242d4e8b179
+		2.https://blog.csdn.net/u010817727/article/details/79937439
+	2.问题 !SecureClientPipeDirect failed: System.IO.IOException 由于远程方已关闭传输流，身份验证失败
+	解决方案：
+	手机的请求Fiddler可以捕捉，但是手机一直无法上网，在logs中看到的日志如下：参考链接：https://www.jianshu.com/p/ff010d38d57e
+	!SecureClientPipeDirect failed: System.IO.IOException 由于远程方已关闭传输流，身份验证失败。 for pipe (CN=*.baidu.com, O=DO_NOT_TRUST, OU=Created 
+	解决办法：将fiddler设置中 Decrypt Https traffic 选项去掉
+
+	3.抓取公众号登录数据：京医通账号
+	_ucp=pj9VmYhSTUlVEMtMN7W2gXrscWeD2CH3MnVuV04pE8KPSOqEcGvAyiCkFKlrTRomuEvncg..
+
+	16进制转为10进制,参考链接：https://q.cnblogs.com/q/71242/
+
+inventoryV2=&#xf192;&#xf454; 库存 
+priceV2=&#xf5f8;&#xf454; 价格
+
+inventoryV2=&#xf27a;  转为数字8
+inventoryV2=&#xf2c9;&#xf27a; 转为数字18
+priceV2=&#xf3ed;&#xf7b9;
+
+priceType=CONFIRMED
+
+形如——
+
+&#dddd; &#xhhhh; &#name;
+——的一串字符是 HTML、XML 等 SGML 类语言的转义序列（escape sequence）。它们不是「编码」。
+
+以 HTML 为例，这三种转义序列都称作 character reference：
+
+前两种是 numeric character reference（NCR），数字取值为目标字符的 Unicode code point；以「&#」开头的后接十进制数字，以「&#x」开头的后接十六进制数字。
+后一种是 character entity reference，后接预先定义的 entity 名称，而 entity 声明了自身指代的字符。
+从 HTML 4 开始，NCR 以 Unicode 为准，与文档编码无关。
+
+「中国」二字分别是 Unicode 字符 U+4E2D 和 U+56FD，十六进制表示的 code point 数值「4E2D」和「56FD」就是十进制的「20013」和「22269」。所以——
+
+&#x4e2d;&#x56fd; &#20013;&#22269;
+——这两种 NCR 写法都会在显示时转换为「中国」二字。
+
+NCR 可以用于转义任何 Unicode 字符，而 character entity reference 很受限，参见 HTML 4 和 HTML5 中已有定义的字符列表：
+
+Character entity references in HTML 4
+Character entity references in HTML5
+ 
+
+======
+
+2、转换
+
+=======
+
+System.out.println(HtmlEncoder.encode("你好"));
+
+System.out.println(HtmlDecoder.Decode(“&#x4e2d;&#x56fd;”));
+
+最终理解需求：
+修改fiddler请求中的参数：参考链接：https://blog.csdn.net/github_27109687/article/details/47610649
+oSession.utilReplaceInRequest("1111", "2222");
+
+status=WAIT_OPEN
+将获取用户列表的数据请求参数 status=WAIT_OPEN
+
+尝试一种方式，在前一个接口 https://wechat.benmu-health.com/mobile/wx/product/list/v2?_=1583167884494&xa7w6pf=73c8ac08aa832dac72cb07dee52da32b
+返回周数据，即将放号那天，状态WAIT_OPEN改为  openTimestamp=1583236800000  waitOpenTime=68915704  status=CANDIDATE
 
 
-
-
-
-
-
+2020.3.6
+ 1.记录内容
+	fidder 详细参考文章 ：https://www.jianshu.com/p/1c57d8d1ad99
