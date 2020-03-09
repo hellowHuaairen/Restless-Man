@@ -250,3 +250,25 @@ status=WAIT_OPEN
 2020.3.6
  1.记录内容
 	fidder 详细参考文章 ：https://www.jianshu.com/p/1c57d8d1ad99
+	
+2020.3.8
+	1.记录内容
+		1.搭建聊天工具，项目地址：https://gitee.com/farsunset
+		2.安卓下载地址：http://www.restlessman.cn:9001/apps/androidlvxin-pro-3.2.0.apk
+		3.手机配置  http://www.restlessman.cn:9090即可
+		 测试账号：	9527 000000
+					9528 000000
+					
+2020.3.9
+	1.记录内容
+		1.制作视频的两篇文章
+			1.制作动态图标的视频  网址：https://mp.weixin.qq.com/s/W6kBSMFqzm5ureMmxoe5zg
+				1. 世界银行网站：https://www.shihang.org/
+				2. Flourish logo 动态图表网站：https://app.flourish.studio/projects
+				3. 视频制作参考文章：https://mp.weixin.qq.com/s/lLumq6yeYh1AW_qqvf-kPg
+				4.所有素材文章：https://mp.weixin.qq.com/s/W6kBSMFqzm5ureMmxoe5zg
+				5.视频录屏软件：https://www.zhihu.com/question/22371082
+				6. 视频剪辑：https://zhuanlan.zhihu.com/p/21879714
+					1. hitfilm-express下载地址：https://fxhome.com/software-install/hitfilm-express
+				
+			2.手绘软件&素材&工具网站  网址： https://mp.weixin.qq.com/s/65paRD1xZC8dy0DX2TpMuA
