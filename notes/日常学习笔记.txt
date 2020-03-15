@@ -272,3 +272,139 @@ status=WAIT_OPEN
 					1. hitfilm-express下载地址：https://fxhome.com/software-install/hitfilm-express
 				
 			2.手绘软件&素材&工具网站  网址： https://mp.weixin.qq.com/s/65paRD1xZC8dy0DX2TpMuA
+			
+2020.3.10
+	1.记录内容
+		1.手机制作视频，
+			1. 录屏软件使用OBS Studio，矩形录制视频，导出视频为MP4格式
+			2. 使用手机app "剪映"，进行视频剪切，复制网易云的音乐链接，在 "剪映" 使用本地导入即可。
+			
+			
+2020.3.11
+	1.记录内容
+		1. set集合先存入后，之后就不会再存入数据了。
+		2. final定义的类型不自动转化类型
+2020.3.12
+	1.记录内容
+		1.电脑常用软件
+			Clover不推荐 流氓软件
+			https://www.zhihu.com/question/66455899
+
+			附：官网：
+			7-Zip https://sparanoid.com/lab/7z/
+			Geek Uninstaller https://geekuninstaller.com/
+			Microsoft Edge https://www.microsoft.com/en-us/edge
+			PotPlayer https://potplayer.daum.net/?lang=zh_CN
+			IDM http://www.internetdownloadmanager.com/
+			Clover http://cn.ejie.me/
+			QuickLook Windows商店搜索即可
+			Notepads Windows商店搜索即可
+			CCleaner https://www.ccleaner.com/
+			Wox https://github.com/Wox-launcher/Wox/releases
+			Everything https://www.voidtools.com/zh-cn/
+
+			我自己整理的官方安装包：
+			链接：https://pan.baidu.com/s/1RRQAktCo1tNnuTmicK4uLQ
+			提取码：guhj
+
+		2.短视频制作工具
+			剪辑：电脑pr；手机 剪映（推荐），快剪辑，videoleap
+			封面制作：懒人用模板：搞定设计，图怪兽，创可贴；会简单PS：千图网，包图网，昵图网
+			音效：爱给网，包图网，音效网，515ppt，站长素材
+			视频素材：mixkit，coverr，mazzwai，电影天堂
+			图片素材：
+			P图美颜：专业PS，非专业 美图秀秀
+			配音：专业配音，非专业手机录音设备（后续）
+			调色：pr套用lut，达芬奇调色
+			动画制作：来画
+			
+		3.【15款常用短视频工具大全】
+			链接：https://pan.baidu.com/s/1JjAAdmGY5HS6TrksPhD4VQ 
+			提取码：a3bp
+
+			Vps 博客 http://codekon.xyz/
+		4. 腾讯云+网盘专属链接
+			https://cloud.tencent.com/developer/support-plan?invite_code=45yghkq90azw
+		5. 10款springboot项目
+		源码地址以及相关介绍都在这篇文章里面：https://juejin.im/post/5e59bea86fb9a07cc10aa509 ，
+
+		6.几款常用工具
+			aigei.com 扣图片背景
+			pixabay.com免费正常图片
+			mijisou.com搜索器
+			squoosh.app图片压缩高清版
+			yxgapp.com
+			yikm.net
+			51zxw.net各种教程
+			tool.uixsj.cn各种工具
+			smallpdf.com  转格式pdf
+			Jlpcn.net纪录片
+			angel.com
+			pixabay.com
+			mijisou.com
+			squoosh.app
+			yxgapp.com
+			yikm.net
+			51zxw.net
+			tool.uixsj.cn
+			smallpox.com
+			Japan.net
+
+		7.视频下载网站
+		唧唧down：https://www.jijidown.com/
+		
+		8.【如何像刷抖音、B站一样学习】
+			1.未知预期
+			做题时永远不要知道下一题是什么，保持未知性
+			2.反馈周期
+			反馈周期不能过长，否则难以保持有效反馈回路；反馈时间也不能过短，太过细 
+			碎的思维会摧毁知识的连贯性。（必须找到一个合适自己的区间）
+			所以，番茄学习法是最好的选择。一个番茄时间可以是15到60分钟不等（因人 
+			而异）
+			比如：做题时题目由易到难，每做完五道题可以翻看答案
+			在反馈时间长的周期可以将大周期分解成小周期，每个周期制定反馈。
+			3.新鲜感
+			每两个番茄更换一次科目或知识的类型
+			做题时，对已经熟悉的题目及时归纳整理。然后挑战新的题型。
+			4.反馈强化
+			视觉反馈 : 勾画，做笔记等。使用思维导图最佳。
+			情感反馈：两个番茄钟后可以休息半个番茄的时间，这期间可以奖励自己（玩手 
+			机，吃零食，找喜欢的妹子（小哥哥）聊天。
+			互动反馈：费曼学习法
+			与同学或老师讨论
+			5.时间屏蔽
+			千万不要用分秒记时，要用番茄周期计数
+		
+		9.一些国家网站
+			️中國司法網站——“立法意见征集”
+			http://www.moj.gov.cn/government_public/content/2020-02/27/657_3242533.html
+
+			️连接加载不出来可以发邮件邮箱：YJJL2020@chinalaw.gov.cn 
+
+			️vx小程序——中国法律服务网→专区→立法意向征集专区→外国人获得中国永久居住权
+
+
+			01.工信部-部长信箱
+			http://www.miit.gov.cn/
+			02.国家邮政局申诉网站
+			https://sswz.spb.gov.cn/
+			03.网络不良与垃圾信息举报受理中心
+			https://12321.cn/
+			04.国家食品药品监督管理总局
+			http://samr.cfda.gov.cn/WS01/CL0001/
+			05.中国执行信息公开网
+			http://zxgk.court.gov.cn/
+			06.国家企业信用信息公示系统
+			http://gsxt.gdgs.gov.cn/
+			07.征信查询
+			https://ipcrs.pbccrc.org.cn/
+			08.ICP/IP地址/域名信息备案管理系统
+			http://beian.miit.gov.cn/state/outPortal/loginPortal.action;jsessionid=6v9yLcdZAKdJe6rHQKi9pqz5kWIemDdgaHklvvn18ShdfYXKcGvR!-1691870508
+			09.商务部直销网站管理
+			http://zxgl.mofcom.gov.cn/front/index;jsessionid=DC525568D09DC3D2D0ECE25BDF849C72
+			10.中国高等教育学生信息网
+			https://chsi.com.cn/
+2020.3.12
+	1.记录内容
+		1.强大的工具
+		Wox + everything 项目地址：https://github.com/Wox-launcher/Wox/releases
