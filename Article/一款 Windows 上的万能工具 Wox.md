@@ -41,7 +41,8 @@
 
 ### 4.工具设置
 `Wox`一般会最托盘，打开 `Wox` 设置窗口，如下图，可以设置主题,也可以进行插件的管理。
-![](https://imgkr.cn-bj.ufileos.com/4f2f53c9-8d01-4869-a1bf-04a8d42fdfcc.png)
+![](https://imgkr.cn-bj.ufileos.com/8165a620-8b68-45a4-9eda-c671ab74a8d3.png)
+
 
 当然你也可以自定义主题，通过这个链接：http://www.wox.one/theme/builder<br/>
 将生成好的主题文件 `*xaml` ，放到 `Wox\app-1.3.524\Themes` 目录下即可。重启工具，切换到自定义的主题即可。
