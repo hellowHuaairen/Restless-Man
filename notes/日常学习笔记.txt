@@ -408,3 +408,7 @@ status=WAIT_OPEN
 	1.记录内容
 		1.强大的工具
 		Wox + everything 项目地址：https://github.com/Wox-launcher/Wox/releases
+		
+2020.3.19
+	1.记录内容
+		1.leetCode中国区无法登录的原因，https://github.com/jdneo/vscode-leetcode/blob/master/docs/README_zh-CN.md
