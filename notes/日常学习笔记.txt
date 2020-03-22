@@ -412,3 +412,55 @@ status=WAIT_OPEN
 2020.3.19
 	1.记录内容
 		1.leetCode中国区无法登录的原因，https://github.com/jdneo/vscode-leetcode/blob/master/docs/README_zh-CN.md
+2020.3.20
+	1.vscode 安装leecode插件，进行在线答题
+	2.学习使用arthas 性能调优工具。
+2020.3.21
+	1.图片处理软件
+		1. 批量图像处理的免费在线工具 https://www.imgbot.ai/ 
+		2. https://www.iloveimg.com/zh-cn， http://www.img365.cn/，https://yijiangaitu.com/
+		3. https://bigjpg.com/ 
+		4. 抠图 https://www.gaoding.com/koutu
+		5. 在线版ps https://www.uupoop.com/
+		6. 去除背景 https://www.remove.bg/
+		7. 图片拼接 http://join-screenshots.zhanghai.me/ http://screenshots.hpday.cn/
+		8. 压缩图片 https://squoosh.app/editor
+		9. 图床 微博图床 https://imgchr.com/或者 https://sm.ms/
+		10. 图片识别 天若OCR https://www.onlineocr.net/ 类似的网站还有阿里云的 https://duguang.aliyun.com/experience 
+		11. 去水印 Teorex Inpaint是个非常好用的去水印软件 https://www.theinpaint.com/ 
+		12. 截图 https://zh.snipaste.com/ 下载软件
+		13 梗图素材 https://imgflip.com/memetemplates 
+		
+	2. 视频处理
+		1. 不用软件直接 在线剪辑视频，提取音频，视频合并，视频转GIF 等https://beecut.cn/online-video-editor
+		类似的网站 https://bilibili.clipchamp.com/ ， https://online-video-cutter.com/cn/
+		2. GIF处理 爱奇艺出品的在线gif制作网站 http://ijinguo.iqiyi.com/tools/#/
+		类似的网站 ：https://ezgif.com/  ，https://tool.gifhome.com 
+		3. 视频下载 
+		比如下载b站视频 ，直接输入地址在线解析https://www.parsevideo.net/#https://www.bilibili.com/video/av75572775
+		其他类似的网站还有 https://bilibili.iiilab.com/ ，https://weibomiaopai.com/
+	3. PDF处理
+		1. https://smallpdf.com/cn  这个网站功能很齐全，有压缩PDF、PDF转换、PDF转PPT等功能，不用注册即可使用。
+		其他类似网站的还有https://www.ilovepdf.com/zh-cn， https://docsmall.com/  ，https://lightpdf.com/zh/ 
+		
+	4. 图表制作
+		1. https://tushuo.baidu.com/ 类似的网站还有 https://chartcube.alipay.com/，   https://www.wentu.io/ ，https://www.tubiaoxiu.com/ 。
+
+	5. 思维导图
+		1. processon 支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等 https://www.processon.com/
+		类似的还有流程图 https://app.liuchengtu.com/  ，幕布https://mubu.com/ ，百度脑图https://naotu.baidu.com/ ，https://www.draw.io/
+		
+	6. 在线协作文档
+		1. 石墨文档https://shimo.im/    腾讯文档https://docs.qq.com/  ，一起写 https://www.yuque.com，
+	7. 文字转语音 参考文章：https://mp.weixin.qq.com/s?__biz=MzIyMjg2ODExMA==&mid=2247484434&idx=1&sn=f92a10b63833662c289a4e0933703193&scene=21#wechat_redirect
+		1. http://cn.piliapp.com/text-to-speech/ 直接输入文字点击播放
+		2. 百度语音广播开放平台  百度的这个还不错，支持5000字  https://developer.baidu.com/vcast
+		3. Chrome 扩展 Read Aloud 是一款用来朗读网页的 Chrome 扩展
+		4. 讯飞快读 很多APP的语音朗读功能都是用的科大讯飞提供的接口https://www.xfyun.cn/services/online_tts
+	8. 短视频制作 手绘视频制作，
+		参考文章：https://mp.weixin.qq.com/s/65paRD1xZC8dy0DX2TpMuA
+		参考视频：https://mp.weixin.qq.com/s/io_IDo8QCze5pw7-Fj4TWA
+		1. 在淘宝上随手一搜 videoscribe中文，就能找到无数卖家，价格在10块钱左右，都挺靠谱的。注意，在购买时一定要问清楚，能不能做竖版的手机视频。
+			手机上下载一个名叫“美册”的APP
+		2. 淘金阁：（http://www.51taojinge.com/include/voice/voice.php）一个强大的免费文字换配音的网站，生成的声音自然流畅，是国内不少视频创作者必备的工具网站。
+		3.FreePD：（https://freepd.com）汇集了互联网海量免版税的公共领域音乐资源，提供了许多不同类型的音乐资源，你可以不花钱就能免费下载任意一首音乐，花个14美元可以一键下载全部内容。

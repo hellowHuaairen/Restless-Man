@@ -54,30 +54,30 @@
 ### 2.2 快速入门
 #### 2.2.1 入门
 通过上面的命令，我们已经启动了 `arthas`，那我们通过下面的几个命令快速领略一下他的风采吧！
-1. 查看数据面板 `dashboard`
+
+1. 查看数据面板 `dashboard`<br/>
 输入dashboard，按回车/enter，会展示当前进程的信息，按ctrl+c可以中断执行。
 ![](https://imgkr.cn-bj.ufileos.com/8814f2c5-27ac-4e74-8867-36b63f917f1f.png)
 
-
-2. 查看进程 `thread` 命令
+2. 查看进程 `thread` 命令<br/>
 从上面的图片可以看出，有个线程id为1，我们执行 `thread 1 | grep 'main'` 可查看线程的堆栈信息。
 ![](https://imgkr.cn-bj.ufileos.com/887efdde-e470-4afd-92f2-247a084af11d.png)
 
-3. 反编译 `jad` 命令
+3. 反编译 `jad` 命令<br/>
 我们看到有个叫 `demo.MathGame` 的类，那我们就来看下它的源码，执行 `jad demo.MathGame`,内容如下：
 ![](https://imgkr.cn-bj.ufileos.com/6f2841cb-cc6a-4c75-8c36-3d4468ffaa46.png)
 
-4. 监控命令 `watch`
+4. 监控命令 `watch`<br/>
 通过 `jad` 命令我们反编译了代码，那么我们监控一下 `primeFactors` 方法的返回值的情况，执行 `watch demo.MathGame primeFactors returnObj`，如下图：
 ![](https://imgkr.cn-bj.ufileos.com/20a138a3-fb16-488b-9b13-80f29eb63e3d.png)
 
-5. 退出
+5. 退出<br/>
 使用 `quit` 或者`exit`命令就可以退出。Attach 到目标进程上的 arthas 还会继续运行，端口会保持开放，下次连接时可以直接连接上。如果想完全退出 arthas，可以执行stop命令。
 
 #### 2.2.2 进阶
 
 这里我大概列举了一下jvm相关的常用功能。
-```
+```bash
 sc -d demo.MathGame #打印类的详细信息
 sc -d -f demo.MathGame #打印出类的Field信息
 sm -d java.lang.String toString #展示每个方法的详细信息
