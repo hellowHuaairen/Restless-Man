@@ -464,3 +464,8 @@ status=WAIT_OPEN
 			手机上下载一个名叫“美册”的APP
 		2. 淘金阁：（http://www.51taojinge.com/include/voice/voice.php）一个强大的免费文字换配音的网站，生成的声音自然流畅，是国内不少视频创作者必备的工具网站。
 		3.FreePD：（https://freepd.com）汇集了互联网海量免版税的公共领域音乐资源，提供了许多不同类型的音乐资源，你可以不花钱就能免费下载任意一首音乐，花个14美元可以一键下载全部内容。
+
+2020.3.22
+	1.文字视频制作
+	2.手绘视频制作 参考文章：https://mp.weixin.qq.com/s/65paRD1xZC8dy0DX2TpMuA
+		
