@@ -468,4 +468,10 @@ status=WAIT_OPEN
 2020.3.22
 	1.文字视频制作
 	2.手绘视频制作 参考文章：https://mp.weixin.qq.com/s/65paRD1xZC8dy0DX2TpMuA
+	
+2020.3.26	
+	1. windows 安装office的方法：https://www.jianshu.com/p/739348a13a09
+	 直接下载工具：网站链接：https://otp.landian.vip/zh-cn/
+	2. 写文章，制作短视频
+	 
 		
