@@ -474,4 +474,24 @@ status=WAIT_OPEN
 	 直接下载工具：网站链接：https://otp.landian.vip/zh-cn/
 	2. 写文章，制作短视频
 	 
-		
+2020.3.27		
+	1. npm 相关升级的操作：https://www.jianshu.com/p/a33702a4b096	
+	 npm install -g mkdirp
+	 npm install -g mkdirp@0.5.1
+	2. JHipster安装  https://blog.csdn.net/zhao50632/article/details/54582177
+	3. hugo 安装文档 https://blog.chaos.run/dreams/windows-build-blog-with-hugo-deploy-to-github/
+		https://gohugo.io/getting-started/installing#windows
+
+2020.3.28	
+	hugo安装手册
+	1. 中文教程：https://www.gohugo.org/
+	2. 优秀的博客：https://dp2px.com/2019/08/30/go-hugo1/
+	切换主题 https://juejin.im/post/5cc41bfef265da036505031c
+	图片主题：https://themes.gohugo.io/hugo-theme-dream/
+	简历主题：https://themes.gohugo.io/theme/hugo-devresume-theme/
+	博客主题：https://github.com/digitalcraftsman/hugo-icarus-theme
+
+2020.3.28		
+	1. Personal access tokens: f2dc90f4c790c1924398d70a20a74c478cb2522d
+	2. ci网站：https://travis-ci.org/account/repositories
+	3. 自动构建教程： https://opso.coding.me/post/hugo-auto-deploy/
