@@ -150,7 +150,8 @@ deploy:
 
 **Travis CI配置**
 
-通过`Github`账号授权登录 `Travis CI`，添加需要自动构建的项目，如下图:
+通过`Github`账号授权登录 `Travis CI`，https://travis-ci.org/<br/>
+添加需要自动构建的项目，如下图:
 ![](https://imgkr.cn-bj.ufileos.com/12a9a4ed-50ec-4c12-9cf1-be3d0e298cf7.png)
 点击后面的settings，在 Environment Variables 中添加NAME填 GITHUB_TOKEN，VALUE填上一步生成的 Token
 ![](https://imgkr.cn-bj.ufileos.com/32542dfb-3e83-469c-83c9-473536159e58.png)
@@ -159,11 +160,18 @@ deploy:
 接下来在 `source` 分支提交代码，打包后的项目就会自动提交到 `master` 分支，使用 `Github Pages` 就可以实现自动部署我们的项目了。
 ![](https://imgkr.cn-bj.ufileos.com/6ea895d3-2dab-4135-b569-02ddf93533a6.png)
 我搭建的博客地址:https://hellorestlessman.github.io/
-
-
-
 ### 4.2 docker 部署
-
-### 4.3 `宝塔` 部署
+如果你有自己的服务，那么也可以部署项目到自己的服务，最好的方式是在自己的服务器上跑一个像`Jenkins` 的自动化构建工具，当提交代码后，自动打包，打包完成后自动部署。服务器安装 `Jenkins` 有很多方式，这里就不细说了。我就大概将一下服务器上如何部署前端项目。<br/>
+这里以 `Docker` 容器为例，服务器安装好 `Docker` 后，执行如下命令即可部署前端项目:
+```bash
+docker run --name nginx_test1 -d -p 3000:80 -v /usr/web/html/:/usr/share/nginx/html nginx #指定宿主机静态资源路径
+docker run --name nginx_test2 -d -p 80:80 -v /nginx/html:/usr/share/nginx/html -v /nginx/conf/nginx.conf:/etc/nginx/nginx.conf  nginx #指定宿主机静态资源，挂在外部配置文件
+```
+这里注意，先临时启动一个`nginx`容器，获取一下 `nginx.conf`，执行如下命令：
+```bash
+docker run -d -p 8088:80 --name nginx_tmp nginx
+docker cp nginx_tmp:/etc/nginx/nginx.conf /nginx/conf/nginx.conf
+```
 
 ## 五、 最后
+一句话 `Hugo`很优秀，如果你也正好需要建网站，可以考虑一下 `Hugo`。本文讲了很多东西都不是很详细，代码自动构建工具 `Travis CI`、`Jenkins` 值得深入一下。 `Docker` 基本操作有兴趣的伙伴也可以学习一下。每一项技能或者知识，如果能把这些知识点串联起来，就可以完成不可思议的事情。哈哈开个玩笑，下期再见！
