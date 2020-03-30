@@ -499,3 +499,8 @@ status=WAIT_OPEN
 2020.3.30
 	1.idea取消vim模式 方法：菜单栏:tools->vim emulator
 	2.IdeaVim-常用操作 https://blog.csdn.net/xuzhexing/article/details/91478427	
+	3.Java实现约瑟夫环：50个人围成一圈数数，从1开始报数，数到3的人退出，求最后剩下的人的编号
+		参考代码：https://blog.csdn.net/yangxingpa/article/details/82119721
+				 https://blog.csdn.net/u012987201/article/details/45171267
+				 https://blog.csdn.net/liaction/article/details/47336225 比较详细
+	4.小分辨率图片变大 工具 https://bigjpg.com/
