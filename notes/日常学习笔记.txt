@@ -491,7 +491,11 @@ status=WAIT_OPEN
 	简历主题：https://themes.gohugo.io/theme/hugo-devresume-theme/
 	博客主题：https://github.com/digitalcraftsman/hugo-icarus-theme
 
-2020.3.28		
+2020.3.29		
 	1. Personal access tokens: f2dc90f4c790c1924398d70a20a74c478cb2522d
 	2. ci网站：https://travis-ci.org/account/repositories
 	3. 自动构建教程： https://opso.coding.me/post/hugo-auto-deploy/
+
+2020.3.30
+	1.idea取消vim模式 方法：菜单栏:tools->vim emulator
+	2.IdeaVim-常用操作 https://blog.csdn.net/xuzhexing/article/details/91478427	
