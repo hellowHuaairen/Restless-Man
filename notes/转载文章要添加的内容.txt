@@ -2,8 +2,8 @@
 1.掘金：
 <div style="text-align: center;">
 <span>
-	<dd style="text-align: center;"><b>不安分的猿人</b></dd>
-	<dd style="font-size: 14px;text-align: center;">孜孜不断的技术分享！</dd>
+	<dd style="text-align: center;margin-left: 0%;"><b>不安分的猿人</b></dd>
+	<dd style="font-size: 14px;text-align: center;margin-left: 0%;">孜孜不断的技术分享！</dd>
 </span>
 <img src="https://user-gold-cdn.xitu.io/2020/2/16/1704e0035b8ec209?w=303&h=302&f=jpeg&s=36191" style="width: 220px;margin-top:10px">
 </div>
@@ -12,10 +12,11 @@
 <br/>
 <div style="text-align: center;">
 <span>
-	<dd style="text-align: center;"><b>不安分的猿人</b></dd>
-	<dd style="font-size: 14px;text-align: center;">孜孜不断的技术分享！</dd>
+我有个公众号叫：<b>不安分的猿人</b> 每周都会有技术干货分享给大家，关注我第一时间获取哦！
 </span>
-<img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X2pwZy9haWNES3p3dlk5REVyOUtzVzN3ajhuWThKQ3lJTDFUN1FxYzhDM2lhMGg1VzVyV1duMFl1MFlVa1Y1VDVZQ3BtOEw1TUtYMGpCRW1nSTJaZjZzandJZ1FBLzY0MA?x-oss-process=image/format,png" style="width: 220px;margin-top:10px">
+</div>
+<div style="text-align: center;">
+<img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X2pwZy9haWNES3p3dlk5REVyOUtzVzN3ajhuWThKQ3lJTDFUN1FxYzhDM2lhMGg1VzVyV1duMFl1MFlVa1Y1VDVZQ3BtOEw1TUtYMGpCRW1nSTJaZjZzandJZ1FBLzY0MA?x-oss-process=image/format,png" style="width: 220px;">
 </div>
 
 3.知乎
