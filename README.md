@@ -62,6 +62,7 @@
    - 3.6 [赚钱：这些公众号让你轻松月入百万](Article/赚钱：这些公众号让你轻松月入百万.md)
    - 3.7 [Tomcat配置SSL证书实现%20https%20访问](Article/Tomcat配置SSL证书实现%20https%20访问.md)
    - 3.8 [windows7你不知道的骚操作](Article/windows7你不知道的骚操作.md)
+   - 3.9 [如何优雅的将数据库表逆向生成代码](Article/如何优雅的将数据库表逆向生成代码.md)
 
 
 ## 贡献者
