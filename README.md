@@ -33,6 +33,7 @@
    - 1.20 [Alibaba Java诊断利器 Arthas](Article/Alibaba%20Java诊断利器%20Arthas.md)
    - 2.21 [Hugo 快速搭静态网站](Article/使用%20Hugo%20快速搭静态网站.md)
    - 2.22 [手撸的一个快递查询系统，竟然阅读量过1.8w](Article/手撸的一个快递查询系统，竟然阅读量过1.8w.md)
+   - 2.23 [一款精美的后台内容管理系统](Article/一款精美的后台内容管理系统.md)
 
 #### 2. 工具分享
    - 2.1 [Google DevTools](Article/不懂技术也可以爬取网页数据了，只需掌握Google%20DevTools这些基本操作.md)
