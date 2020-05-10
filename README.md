@@ -35,6 +35,8 @@
    - 2.22 [手撸的一个快递查询系统，竟然阅读量过1.8w](Article/手撸的一个快递查询系统，竟然阅读量过1.8w.md)
    - 2.23 [一款精美的后台内容管理系统](Article/一款精美的后台内容管理系统.md)
    - 2.24 [快速迭代-自助快递系统升级了](Article/快速迭代-自助快递系统升级了.md)
+   - 2.25 [Electron + Vue开发一款音乐播放器](Article/Electron%20+%20Vue开发一款音乐播放器.md)
+   - 2.26 [只有你项目不到，Electron也可以开发视频播放器](Article/只有你项目不到，Electron也可以开发视频播放器.md)
 
 #### 2. 工具分享
    - 2.1 [Google DevTools](Article/不懂技术也可以爬取网页数据了，只需掌握Google%20DevTools这些基本操作.md)
