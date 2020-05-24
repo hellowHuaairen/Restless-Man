@@ -16,10 +16,10 @@
 - axios: 一个基于Promise 的HTTP 库，可以用在浏览器和node.js 中。
 
 **项目说明**</br>
-考试系统整体为前后端分离项目，作者又在这基础上，将端拆分成两个管理员后端和学生考试后端，后端的代码在一起。前端也做了类似的拆分，所以其实是两个后端项目，两个前端项目。本篇先讲一下学生考试端的环境搭建。主要包括：学员在线做课程试题、在线考试、错题本功能记录、考试记录、个人中心。
+考试系统整体为前后端分离项目，作者又在这基础上，将后端拆分成两个管理员后端和学生考试后端，后端的代码是在一起。前端也做了类似的拆分，所以其实是两个后端项目，两个前端项目。本篇先讲一下学生考试部分的前后端环境搭建。功能包括：学员在线做课程试题、在线考试、错题本功能记录、考试记录、个人中心。
 
 **后端项目地址**</br>
-后端项目地址:https://gitee.com/zhuimengshaonian/wisdom-education
+后端项目地址: https://gitee.com/zhuimengshaonian/wisdom-education
 - 管理员后台: education-admin-api
 - 学生考试后台: education-student-api
 
@@ -39,7 +39,7 @@ init-data.sql  #初始化数据
 init-region.sql #初始化system_region
 init-table.sql  #初始化表结构
 ```
-注意:`system_log`表少一个字段`request_url`,类型为`varchar(100)`。
+注意:`system_log`表少一个字段`request_url`,类型为`varchar(100)`。</br>
 **修改配置**</br>
 阅读项目配置文件可知，项目使用的`prod`的配置文件，所以我们直接看`application-prod.yml`文件即可。
 这里主要关注数据库连接，再添加一下`redis`的配置。
@@ -108,7 +108,7 @@ npm run build --report #项目打包并输出分析报告
 ![](https://imgkr.cn-bj.ufileos.com/14c79c11-478e-4d20-bc09-d17f3efff257.png)
 
 ## 四、最后
-项目具备了考试系统基本功能，本篇讲了学生考试部分的前后端的搭建。另外比较重要的一部分就是管理员前端项目，本人不是专业搞前端的，还没搞定管理员前端项目，尝试过程中也遇到了很多问题，FAQ做个记录。遇到问题其实也不可怕，合理利用搜索引擎 + 开启大脑思考功能，我相信问题一定可以解决的。下篇将考试系统的管理员部分的前后端搭建。
+项目具备了考试系统基本功能，本篇讲了学生考试部分的前后端的搭建。另外比较重要的一部分就是管理员前端项目，本人不是专业搞前端的，还没搞定管理员前端项目，尝试过程中也遇到了很多问题，FAQ做个记录。遇到问题其实也不可怕，合理利用搜索引擎 + 开启大脑思考功能，办法总比困难多嘛！我相信问题一定可以解决的。下篇讲考试系统的管理员部分的前后端搭建。
 
 ## FAQ
 - 1.npm install 报错：Error: Can't find Python executable "python", you can set the PYTHON env variable。<br/> 
