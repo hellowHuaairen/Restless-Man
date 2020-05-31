@@ -93,31 +93,29 @@ java11默认路径：E:\installSofts\jdk11
 	   项目源码地址：https://github.com/itinypocket/spring-boot-study
 	   
 	
-1.Spring Boot 简介（包含启动原理）
+1.Spring Boot 简介
 2.Spring Boot 快速入门
-3.Spring Boot 集成 MyBatis XML 配置版
-4.Spring Boot Thymeleaf示例
+3.Spring Boot 集成 MyBatis
+4.Spring Boot 集成Thymeleaf
 5.Spring Boot使用RESTful Web服务
 6.Spring Boot异常处理
 7.Spring Boot拦截器
 8.Spring Boot国际化
-9. Nacos简介(做注册中心和配置中心)
+9.Nacos简介(做注册中心和配置中心)
 10.Spring Boot集成Nacos
 11.Spring Boot gateway
 12.Spring Boot Feign服务间接口调用
 13.SpringBoot 整合 oauth2实现 token 认证
 14.Spring Boot启用Swagger2
 15.Spring Boot发送电子邮件
-16.Spring Boot Flyway数据库
-17.Spring Boot调度
-18.Spring Boot Actuator 监控应用
-19.Spring Boot Hystrix
-20.使用 Spring Boot 操作 rabbitMQ
-21.Spring Boot创建Docker镜像,docker部署
-22.Spring Boot单元测试用例
-23.Spring Boot Sleuth 跟踪微服务日志
-24.实战项目（一），使用上面列举的所有功能，完成实战项目  客户关系管理，认证服务，发送邮件服务，后台管理系统，网关服务，
-25.实战项目（二）
-26.实战项目（三）
-27.Spring Boot 总结
+16.Spring Boot调度
+17.Spring Boot Actuator 监控应用
+18.Spring Boot Hystrix
+19.使用 Spring Boot 操作 rabbitMQ
+20.Spring Boot创建Docker镜像,docker部署
+21.Spring Boot单元测试用例
+22.Spring Boot Sleuth 跟踪微服务日志
+23.实战项目（一）
+24.实战项目（二）
+25.Spring Boot 总结
 
