@@ -39,6 +39,7 @@
    - 2.26 [只有你想不到，Electron也可以开发视频播放器](Article/只有你想不到，Electron也可以开发视频播放器.md)
    - 2.27 [SpringBoot + Vue + Electron 开发 QQ 版聊天工具](/Article/SpringBoot%20+%20Vue%20+%20Electron%20开发%20QQ%20版聊天工具.md)
    - 2.28 [新鲜出炉的一款SpringBoot +Vue的考试系统](/Article/新鲜出炉的一款SpringBoot%20+Vue的考试系统.md)
+   - 2.29 [大数据时代-可视化数据分析平台必不可少](Article/大数据时代-可视化数据分析平台必不可少.md)
 
 #### 2. 工具分享
    - 2.1 [Google DevTools](Article/不懂技术也可以爬取网页数据了，只需掌握Google%20DevTools这些基本操作.md)
